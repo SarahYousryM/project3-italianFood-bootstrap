@@ -1,0 +1,76 @@
+
+    /* .top1{width: 100vw;
+        background-color: #fff;
+    } */
+.carousel-caption{
+    color: #ddb300;
+
+background-color: rgba(221, 179, 0, 0.2);
+}    
+.btn-success {
+    color: #fff;
+    background-color: #ddb300;
+    border-color: #ddb300;;
+}
+.searcha{min-width: 10px;
+  }
+
+  .btn-2{display: block;
+margin-left: 5px;}
+
+.searcha{
+    min-width: 100px;
+        background-color: #fff;
+}
+
+.jumbotron{
+text-align: center;
+}
+.hh1,.pp1{color:goldenrod;
+}
+
+.wel1{background-color: #ddb300;}
+
+.card-header:hover{background-color: rgba(223, 187, 27, 0.2);}
+.card-link{color: #ddb300;}
+.card-link:hover{color:grey;}
+.card-header{background-color: #ddb300;}
+.achieve{
+    width: 100%;
+    height: 400px;
+    background-attachment: fixed;
+    background-image: url(tart.jpg);
+    background-repeat: no-repeat;
+
+   
+}
+
+/* @media(max-width:576px){.achieve{
+    height: 400px;
+    background-image: url(../thumb-extra-s.jpg);
+    width: 100%;
+    background-attachment: fixed;
+    /* background-image: url(../Crostata.jpg); */
+    /* background-repeat: no-repeat;
+}} */
+
+.achieve1{
+    width: 100%;
+    height: 400px;
+    background-attachment: fixed;
+    background-image: url(allpasta.jpg);
+    background-repeat: no-repeat;
+
+   
+}
+#footer .footer-nav .nav-group .nav-group-section {
+    font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+
+#footer .footer-nav {
+    font-family: "Brandon Grotesque",Arial,Helvetica,sans-serif;
+    margin-bottom: 70px;
+}
